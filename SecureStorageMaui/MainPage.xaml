@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SecureStorageMaui.MainPage">
+
+    <ScrollView>
+         <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+            <Label Text="Access Token"/>
+           <Entry Placeholder="Your Token" x:Name="SaveToken"/>
+           <Button Text="Save" Clicked="Save"/>
+            <Button Text="Delete" Clicked="Delete"/>
+            <Label Text="Saved access token"/>
+            <Entry x:Name="ShowToken"/>
+            <Button Text="Show" Clicked="Show"/>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
+

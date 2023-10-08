@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureStorageMaui", "SecureStorageMaui\SecureStorageMaui.csproj", "{518DF179-8120-4D65-B486-A930E3CC5965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{518DF179-8120-4D65-B486-A930E3CC5965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518DF179-8120-4D65-B486-A930E3CC5965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518DF179-8120-4D65-B486-A930E3CC5965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518DF179-8120-4D65-B486-A930E3CC5965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE9FF4F7-1AA9-4B46-9FBE-C6627D3D8FF1}
+	EndGlobalSection
+EndGlobal
