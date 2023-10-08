@@ -1,7 +1,7 @@
 # Secure Storage App with .NET MAUI
 
 ## App Screenshot
-![PANIC-2](https://github.com/erdalkama/SecureStorageMaui/assets/34250103/c502d764-39e8-4f94-89bc-dfc66c0de625)
+![PANIC-2](https://github.com/erdalkama/SecureStorageMaui/assets/34250103/a657f531-a040-4800-b1bb-af2ad219620a)
 
 This is a simple cross-platform app developed with .NET MAUI that demonstrates how to securely store and manage sensitive data, such as access tokens, in a mobile application. It provides a user-friendly interface for users to input, save, display, and delete their access tokens while ensuring data security.
 
